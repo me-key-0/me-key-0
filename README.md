@@ -1,6 +1,10 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+</h1>
 
 <img src="https://github.com/me-key-0/me-key-0/blob/main/bg.jpg" alt="Banner of a developer sitting in front of a desk">
+
+
 <!--
 **me-key-0/me-key-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
